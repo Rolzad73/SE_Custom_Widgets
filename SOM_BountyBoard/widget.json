@@ -1,0 +1,44 @@
+{
+	"add": {
+		"type": "text",
+		"label": "Add to bounty list command",
+		"value": "!bounty_add"
+	},
+  	"remove": {
+		"type": "text",
+		"label": "Remove from bounty list by name",
+		"value": "!bounty_remove"
+	},
+	"draw": {
+		"type": "text",
+		"label": "Draw command",
+		"value": "!bounty_draw"
+	},
+  	"list": {
+		"type": "text",
+		"label": "list queue as chat message",
+		"value": "!list"
+	},
+	"clear": {
+		"type": "text",
+		"label": "Remove results from screen command",
+		"value": "!bounty_clear"
+	},
+	"purge": {
+		"type": "text",
+		"label": "Empty bounty list",
+		"value": "!bounty_purge"
+	},
+	"widgetName": {
+		"type": "hidden",
+		"value": "Bounty List"
+	},
+	"widgetAuthor": {
+		"type": "hidden",
+		"value": "Rolz73"
+	},
+	"widgetVersion": {
+		"type": "hidden",
+		"value": "1.0"
+	}
+}
