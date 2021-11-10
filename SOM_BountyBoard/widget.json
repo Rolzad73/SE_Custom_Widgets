@@ -14,16 +14,6 @@
 		"label": "Draw command",
 		"value": "!bounty_draw"
 	},
-  	"list": {
-		"type": "text",
-		"label": "list queue as chat message",
-		"value": "!list"
-	},
-	"clear": {
-		"type": "text",
-		"label": "Remove results from screen command",
-		"value": "!bounty_clear"
-	},
 	"purge": {
 		"type": "text",
 		"label": "Empty bounty list",
